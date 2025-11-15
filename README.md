@@ -49,7 +49,7 @@ python menu.py
 
 ---
 
-![Screenshot of menu](images/menu.png)
+![Screenshot of menu](Images/menu.png)
 
 ---
 
